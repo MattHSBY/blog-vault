@@ -1,6 +1,6 @@
 # Building a Static Blog with Obsidian and GitHub Pages
 
-*June 2026 · Category: Projects*
+*June 2026*
 
 Here's how I set up a blog site that publishes straight from my Obsidian vault.
 
