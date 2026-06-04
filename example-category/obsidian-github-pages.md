@@ -23,3 +23,7 @@ The result is a fully static site that updates whenever I push from Obsidian.
 Keeping the vault separate from the site scaffolding was the right call. I can use obsidian how I normally would — I don't have to worry about HTML/CSS files for the site and no config files polluting my notes.
 
 The only convention I follow: put a `# Title` as the first line, and optionally a date on the second line with `*Month Year*`.
+
+## Categories
+
+This `.md` file also serves as a test for the formatting of subfolders on the website. This file is under the "example-category" folder, and therefore, at the top of the page above the header, just before the date, you should be able to see the folder name highlighted there.
