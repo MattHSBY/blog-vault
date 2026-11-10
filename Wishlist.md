@@ -32,4 +32,21 @@ Upon some research, I don't think that upgrading would be worth it until I would
 
 
 ## Headphones
-Sennheiser HDB 630 look really good, I'm very interested in wireless headphones but also more interested in audio quality, I have not seen many headphones that present as "audiophile" headphones but are not wired, and it seems like these have ANC, wireless and present really really crisp audio, they're also closed-back (I guess this is to be expected with ANC) which I like a lot.
+Sennheiser HDB 630 look really good, I'm very interested in wireless headphones but also more interested in audio quality, I have not seen many headphones that present as "audiophile" headphones but are not wired, and it seems like these have ANC, wireless and present really really crisp audio, they're also closed-back (I guess this is to be expected with ANC) which I like a lot. These are really the only ones I want at the moment.
+
+[Sennheiser HDB 630](https://uk.sennheiser-hearing.com/products/hdb-630?variant=59918984774016)
+
+
+## Mouse
+Logitech x3 superstrike - this came out recently and it's basically a better version of the mouse I'm already comfortable with, but it came out at like £180 ish, this is one where I would look all over facebook marketplace or ebay, because since it's so new, pretty much all the resellers will be selling at basically new-level quality. **Make sure it is the x3 not x2, x2 is an older one, x3 is the one that came out in oct 2026.**
+
+## Keyboard
+Not looking for one.
+
+
+## Art Supplies
+
+### Acrylic markers
+[Ohuhu](https://uk.ohuhu.com/collections/acrylic-paint-markers/products/ohuhu-acrylic-paint-markers-cotton-core-120-colors-akaka) (or any of the other ohuhu acrylic marker packs)
+
+### 

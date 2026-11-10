@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e1ea0d82d231b49",
+            "id": "b5ecfcc076fc6373",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -187,7 +187,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "5e1ea0d82d231b49",
+  "active": "b5ecfcc076fc6373",
   "lastOpenFiles": [
     "hello-world.md",
     "example-category/obsidian-github-pages.md"
