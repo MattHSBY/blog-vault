@@ -1,7 +1,7 @@
 # Wishlist
 This is just a list I'm writing for myself about what I would like to buy, basically just the things that are on my mind about buying, so that I don't forget about them, it also might be useful to anyone who might want to buy me a gift and is unsure of what to look for.
 
-I should note that every option provided here has a link to buy it (probably amazon), this might not be the cheapest place, so look elsewhere too if you value money lol, just make sure that the name matches and that you're actually buying the right thing. Another really good place to look for some of these is facebook marketplace or ebay, because some people list these items for a good deal and they're basically new. Some of these I would be fine having second hand and not new, like actually fairly used, because they don't typically degrade too much over time unless it's been a really really long time (RAM in particular, I believe (check me on this)). Some of these I would want basically new (mouse, headphones, keyboards, peripherals).
+I should note that every option provided here has a link to buy it (probably amazon), this might not be the cheapest place, so look elsewhere too if you value money lol, just make sure that the name matches and that you're actually buying the right thing. Another really good place to look for some of these is facebook marketplace or ebay, because some people list these items for a good deal and they're basically new. Some of these I would be fine having second hand and not new, like actually fairly used, because they don't typically degrade too much over time unless it's been a really really long time (RAM in particular, I believe (check me on this)). Some of these I would want new or barely used (mouse, headphones, keyboards, peripherals).
 
 ## Current specs if you want to do your own research
 **MOBO**: MSI x370 gaming plus (ms-7a33)
@@ -40,13 +40,20 @@ Sennheiser HDB 630 look really good, I'm very interested in wireless headphones 
 ## Mouse
 Logitech x3 superstrike - this came out recently and it's basically a better version of the mouse I'm already comfortable with, but it came out at like £180 ish, this is one where I would look all over facebook marketplace or ebay, because since it's so new, pretty much all the resellers will be selling at basically new-level quality. **Make sure it is the x3 not x2, x2 is an older one, x3 is the one that came out in oct 2026.**
 
-## Keyboard
-Not looking for one.
 
+## High-end USB flashdrive
+I had an idea the other day for a powerful portable computer with everything I could possibly need pre-installed, that fit in your pocket. Theoretically, you could take any USB stick, install a bootable OS (a linux distro) onto it, and use it as a main drive. You could then take this USB stick *anywhere*, and any PC that you can access the bios from (99%), you can just put the USB in, enter bios and launch from the USB, giving you a full saved desktop experience literally wherever you go. In reality, it's not *that* useful, I mean, you could just have a laptop, but it's a fun idea, and I'd kind of like to try it, which is why I want a powerful USB-stick.
 
+It needs to be at least 1TB capacity - although 2TB drives do exist, and the speed needs to be pretty high too, the good ones on the market right now are probably the USB3.2 sticks, comparable to SATA SSD drives, sometimes being 2-4x as fast at 1000-2000mbps for read/write - which is impressive from just a USB, although it mostly depends on the available USB ports, a lot of USB ports nowadays are 5Gbps - which means the read/write would probably be capped at around 350-450 MBps, and god help me if there's only a USB-2.0, where speeds seem to cap around 40MBps.
+
+I'd like at least 1000mbps read from the stick itself though, and it needs to have USB-A, I'm not averse to it also having a USB-C connector, but it **needs** a USB-A connector. Here are some good options:
+- Kingston DataTraveler Max Type-A
+- Silicon Power MS70 or Silicon Power DS72
+-  
 ## Art Supplies
 
 ### Acrylic markers
 [Ohuhu](https://uk.ohuhu.com/collections/acrylic-paint-markers/products/ohuhu-acrylic-paint-markers-cotton-core-120-colors-akaka) (or any of the other ohuhu acrylic marker packs)
 
-### 
+
+
