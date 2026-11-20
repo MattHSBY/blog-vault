@@ -1,8 +1,9 @@
 # Wishlist
-This is just a list I'm writing for myself about what I would like to buy, basically just the things that are on my mind about buying, so that I don't forget about them, it also might be useful to anyone who might want to buy me a gift and is unsure of what to look for.
+- This is just a list I'm writing for myself about what I would like to buy, basically just the things that are on my mind about buying, so that I don't forget about them, it also might be useful to anyone who might want to buy me a gift and is unsure of what to look for.
 
-I should note that every option provided here has a link to buy it (probably amazon), this might not be the cheapest place, so look elsewhere too if you value money lol, just make sure that the name matches and that you're actually buying the right thing. Another really good place to look for some of these is facebook marketplace or ebay, because some people list these items for a good deal and they're basically new. Some of these I would be fine having second hand and not new, like actually fairly used, because they don't typically degrade too much over time unless it's been a really really long time (RAM in particular, I believe (check me on this)). Some of these I would want new or barely used (mouse, headphones, keyboards, peripherals).
+- I should note that every option provided here has a link to buy it (probably amazon), this might not be the cheapest place, so look elsewhere too if you value money lol, just make sure that the name matches and that you're actually buying the right thing. Another really good place to look for some of these is facebook marketplace or ebay, because some people list these items for a good deal and they're basically new. Some of these I would be fine having second hand and not new, like actually fairly used, because they don't typically degrade too much over time unless it's been a really really long time (RAM in particular, I believe (check me on this)). Some of these I would want new or barely used (mouse, headphones, keyboards, peripherals).
 
+- ~~Strikethrough items are items I have already acquired.~~
 ## Current specs if you want to do your own research
 **MOBO**: MSI x370 gaming plus (ms-7a33)
 **CPU**: Ryzen 9 5900X
@@ -32,13 +33,13 @@ Upon some research, I don't think that upgrading would be worth it until I would
 
 
 ## Headphones
-Sennheiser HDB 630 look really good, I'm very interested in wireless headphones but also more interested in audio quality, I have not seen many headphones that present as "audiophile" headphones but are not wired, and it seems like these have ANC, wireless and present really really crisp audio, they're also closed-back (I guess this is to be expected with ANC) which I like a lot. These are really the only ones I want at the moment.
+~~Sennheiser HDB 630 look really good, I'm very interested in wireless headphones but also more interested in audio quality, I have not seen many headphones that present as "audiophile" headphones but are not wired, and it seems like these have ANC, wireless and present really really crisp audio, they're also closed-back (I guess this is to be expected with ANC) which I like a lot. These are really the only ones I want at the moment.~~
 
-[Sennheiser HDB 630](https://uk.sennheiser-hearing.com/products/hdb-630?variant=59918984774016)
+~~[Sennheiser HDB 630](https://uk.sennheiser-hearing.com/products/hdb-630?variant=59918984774016)~~
 
 
 ## Mouse
-Logitech x3 superstrike - this came out recently and it's basically a better version of the mouse I'm already comfortable with, but it came out at like £180 ish, this is one where I would look all over facebook marketplace or ebay, because since it's so new, pretty much all the resellers will be selling at basically new-level quality. **Make sure it is the x3 not x2, x2 is an older one, x3 is the one that came out in oct 2026.**
+~~Logitech x3 superstrike - this came out recently and it's basically a better version of the mouse I'm already comfortable with, but it came out at like £180 ish, this is one where I would look all over facebook marketplace or ebay, because since it's so new, pretty much all the resellers will be selling at basically new-level quality. **Make sure it is the x3 not x2, x2 is an older one, x3 is the one that came out in oct 2026.**~~
 
 
 ## High-end USB flashdrive
